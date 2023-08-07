@@ -7,10 +7,9 @@
 
 
 [![拂杨柳 github stats](https://github-readme-stats.vercel.app/api?username=chenjunwen&count_private=true&show_icons=true)](https://fuyl.cc)
-![拂杨柳 Github Stats](https://github-readme-stats.vercel.app/api?username=chenjunwen&show_icons=true&count_private=true)
 ![](https://stats.justsong.cn/api/csdn?id=chenjunwen)
-![](https://activity-graph.herokuapp.com/graph?username=chenjunwen&theme=github)
-————————————————
+![](http://activity-graph.herokuapp.com/graph?username=chenjunwen&theme=github)
+<img align="" width="99.9%" src="http://activity-graph.herokuapp.com/graph?username=chenjunwen&theme=nord&color=41b883&point=41b883&hide_border=true&bg_color=273849&line=ffffff" />
 
 
 

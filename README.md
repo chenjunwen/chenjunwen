@@ -6,7 +6,7 @@
 
 
 [![](https://github-readme-stats.vercel.app/api?username=chenjunwen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&border_radius=0)](https://fuyl.cc)
-<img align=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjunwen&hide_title=true&hide_border=true&layout=compact&border_radius=0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjunwen&hide_title=true&hide_border=true&layout=compact&border_radius=0" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenjunwen" />
 
 

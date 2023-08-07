@@ -6,11 +6,9 @@
 </p>
 
 
-[![拂杨柳](https://github-readme-stats.vercel.app/api?username=chenjunwen&count_private=true&show_icons=true)](https://fuyl.cc)
-![社交统计](https://stats.justsong.cn/api/csdn?id=chenjunwen)
-![连续打卡](https://activity-graph.herokuapp.com/graph?username=chenjunwen&theme=dracula)
+[![](https://github-readme-stats.vercel.app/api?username=chenjunwen&count_private=true&show_icons=true)](https://fuyl.cc)
+![](https://activity-graph.herokuapp.com/graph?username=chenjunwen&theme=dracula)
 
-<img align="" width="99.9%" src="http://activity-graph.herokuapp.com/graph?username=yiliang114&theme=nord&color=41b883&point=41b883&hide_border=true&bg_color=273849&line=ffffff" />
 
 
 <div align="center">

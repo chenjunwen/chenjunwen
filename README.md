@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;I‘m%20拂杨柳!&font=Roboto" />
 <p>
 <img src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-java-blue" />
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/chenjunwen&right_color=red" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=chenjunwen.github.io&right_color=red" />
 </p>
 
 

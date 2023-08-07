@@ -9,11 +9,15 @@
 [![](https://github-readme-stats.vercel.app/api?username=chenjunwen&count_private=true&show_icons=true)](https://fuyl.cc)
 ![](https://activity-graph.herokuapp.com/graph?username=chenjunwen&theme=dracula)
 
+<img align=""  src="https://github-readme-stats.vercel.app/api?username=chenjunwen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue-dark&border_radius=0" />
+<img align=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjunwen&hide_title=true&hide_border=true&layout=compact&theme=vue-dark&border_radius=0" />
+<img align="" src="http://activity-graph.herokuapp.com/graph?username=chenjunwen&theme=nord&color=41b883&point=41b883&hide_border=true&bg_color=273849&line=ffffff" />
 
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenjunwen" />
-</div>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chenjunwen" />
+
 
 <!--
 **chenjunwen/chenjunwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
